@@ -1,0 +1,5 @@
+There once was a language named Go
+It was designed so it would't be slow
+It had coroutines
+That were named goroutines
+and was easy to master and know
